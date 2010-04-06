@@ -1,0 +1,4 @@
+== (unreleased)
+
+* First Init
+* Add all used Capistrano Receipts
